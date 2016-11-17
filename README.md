@@ -1,5 +1,5 @@
 # OrganizeMySeries
- Program to rename the subtitle with the name closest to the video file.
+ Program to rename the subtitle with the closest name to the video file.
  You can use with movies and series.
  Just copy the program, paste in the same folder the movies/series and run :)
   
